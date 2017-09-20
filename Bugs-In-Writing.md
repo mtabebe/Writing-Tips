@@ -14,13 +14,13 @@ There are four different cases:
 ##### Examples
 
 * The most pronounced *effect* of Lyn's vacation in Canada was a noticeable disappearance of Lyn's sense of humor/
- * Effect is used as a noun because it is tied to a cause: Lyn's vacation
+  * Effect is used as a noun because it is tied to a cause: Lyn's vacation
 * Max *effected* a change in Lyn's outlook by meeting her at the gate and holding her extremely tight while blocking the egress of all the other passengers.
- * Here, effect is used as a verb. Unsure why... Perhaps Lyn's outlook changed
+  * Here, effect is used as a verb. Unsure why... Perhaps Lyn's outlook changed
 * Max having thus arranged Lyn's homecoming, Lyn's *affect* changed to one of buoyant delight and glee.
- * Affect is used as a noun because we are describing Lyn's emotional state.
+  * Affect is used as a noun because we are describing Lyn's emotional state.
 * Max and Lyn thus demonstrated how companions can *affect* each other's moods.
- * Affect is used as a verb to show how Max and Lyn have an influence on each other's moods.
+  * Affect is used as a verb to show how Max and Lyn have an influence on each other's moods.
 
 #### So, So That, Such That
 *Page 14*
@@ -35,11 +35,11 @@ There are four different cases:
 ##### Examples
 
 * I love you, *so* I am happy.
- * Means: I love you; *therefore*, I am happy.
+  * Means: I love you; *therefore*, I am happy.
 * I love you, *so that* I am happy.
- * Means: The reason I love you is that doing so make me happy.
+  * Means: The reason I love you is that doing so make me happy.
 * I love you *such that* I am happy.
- * Means: The way I love you makes me, or allows me to be, happy.
+  * Means: The way I love you makes me, or allows me to be, happy.
 
 
 ####  Which versus That
@@ -64,9 +64,9 @@ There are four different cases:
 ##### Examples
 
 * The car *that* is speeding down the road is about to crash into a stuffed piglet
- * We know a single car, perhaps among hundreds that are slow, is speeding
+  * We know a single car, perhaps among hundreds that are slow, is speeding
 * The car, *which* is speeding down the road, is about to crash into a mongoose.
- * We don't know which car is about to crash, and instead have a parenthetical remark.
+  * We don't know which car is about to crash, and instead have a parenthetical remark.
 
 #### Note that versus Notice that
 *Page 457*
