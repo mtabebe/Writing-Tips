@@ -2,7 +2,7 @@ This page contains a list of common points in writing that I need to refer to in
 
 ---
 
-## Terms Often Confused
+# Terms Often Confused
 
 ### Affect versus Effect
 *Page 460*
@@ -104,7 +104,7 @@ There are four different cases:
 
 ---
 
-## Terms to Avoid
+# Terms to Avoid
 
 ---
 
@@ -112,7 +112,7 @@ There are four different cases:
 
 ---
 
-## Terms Tricky to Handle
+# Terms Tricky to Handle
 
 ---
 
@@ -120,7 +120,7 @@ There are four different cases:
 
 ---
 
-## Punctuation Marks
+# Punctuation Marks
 
 ---
 
@@ -131,7 +131,7 @@ There are four different cases:
 ### Em Dashes
 
 <!---
-## Template
+# Template
 
 ---
 
