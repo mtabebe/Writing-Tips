@@ -91,6 +91,20 @@ There are four different cases:
 ---
 
 ### Its versus It's
+*Page 328*
+
+#### Meaning
+* *Its* means belonging to it
+* *It's* means it is
+
+#### Rules
+* In formal writing you should avoid *it's* because you should avoid contractions
+
+#### Examples
+* Max believes that one way to answer the telephone is to drop *its* handset into the wastepaper basket.
+  * The handset belongs to the phone.
+* Lyn believes that *it's* delicious to turn off the telephone in the evening.
+  * Lyn believes that *it is* delicious
 
 ---
 
@@ -109,8 +123,15 @@ There are four different cases:
 ---
 
 ### Like versus Such as
+---
+
+# Terms Often Misused
+---
+
+### Two or More
 
 ---
+
 
 # Terms to Avoid
 

@@ -1,5 +1,5 @@
 bugsDir="bugs-in-writing-raw"
-scriptsDir="scripts"
+scriptsDir="compile"
 
 filterWords=("examples" "rules" "meaning")
 # don't ask about the sed
