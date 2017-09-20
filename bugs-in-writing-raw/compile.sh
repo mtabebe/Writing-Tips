@@ -2,7 +2,8 @@ bugsDir="bugs-in-writing-raw"
 scriptsDir="scripts"
 
 filterWords=("examples" "rules" "meaning")
-$scriptsDir/gh-md-toc $bugsDir/bugs.md > $bugsDir/toc.md
+# don't ask about the sed
+$scriptsDir/gh-md-toc $bugsDir/bugs.md | sed "s/^       /  /g" > $bugsDir/toc.md
 
 for filterWord in "${filterWords[@]}"
 do
