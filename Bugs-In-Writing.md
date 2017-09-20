@@ -1,4 +1,4 @@
-This page contains a list of common points in writing that I need to refer to in [Bugs In Writing](https://www.pearson.com/us/higher-education/program/Dupre-BUGS-in-Writing-Revised-Edition-A-Guide-to-Debugging-Your-Prose-2nd-Edition/PGM246348.html)
+This page contains a list of common points in writing that I need to refer to in [Bugs In Writing](https://www.pearson.com/us/higher-education/program/Dupre-BUGS-in-Writing-Revised-Edition-A-Guide-to-Debugging-Your-Prose-2nd-Edition/PGM246348.html). Examples, rules, and other text here are copied directly from the book.
 
 ---
 
@@ -97,7 +97,17 @@ There are four different cases:
 ---
 
 ### Fewer versus Less
+*Page 533*
 
+#### Meaning
+* *Fewer* denotes a reduction in the number of a given collection of individual items.
+* *Less* denotes a reduction in the amount of a given stuff.
+
+#### Examples
+* Judy thought that there should be *fewer* bicycles per pack than there were on weekends on the highway.
+  * The specific individual item is bicycles.
+* Steve and Judy agreed that there should be *less* traffic on the road on which they wanted to bicycle together.
+  * The amount of traffic is a singular thing.
 ---
 
 ### Like versus Such as
@@ -109,6 +119,41 @@ There are four different cases:
 ---
 
 ### Undefined this
+*Page 38*
+
+#### Meaning
+* Use of *this* can lead to confusion if it is not clear what 'this' is referring to.
+
+#### Rules
+* Always use a noun after words such as *this, these, that,* and *some*.
+* Avoid the phrase *this means that*
+  * Use a more specific phrase or substitute *thus*
+
+#### Examples
+* Lyn asked Max to turn the garbage can upside down. *This* proved to be ill-advised.
+  * What was ill-advised?
+* Making *this* request proved to be ill-advised.
+
+---
+
+### Impact
+*Page 108*
+
+#### Meaning
+* There are only two acceptable uses of *impact*:
+  * To denote a forceful collision,
+  * and to mean packed or wedged in
+
+
+#### Rules
+* Avoid using *impact* to mean influence of effect
+* Using *impact* as a verb for effect of influence.
+
+#### Examples
+* My car hit the curb with enormous *impact*.
+  * There was a collision
+*  Doug is a superb friend; he influenced Lyn's mood.
+  * Instead of saying 'he *impacted* Lyn's mood'.
 
 ---
 
@@ -117,6 +162,18 @@ There are four different cases:
 ---
 
 ### Only
+*Page 23*
+
+#### Meaning
+* *Only* modifies the term that follows it.
+
+#### Examples
+* *Only* I love you.
+  * Others do not love you
+* I *only* love you.
+  * I have no other emotions towards you.
+* I love *only* you.
+  * I do not love anything else.
 
 ---
 
