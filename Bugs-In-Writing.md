@@ -1,5 +1,7 @@
 This page contains a list of common points in writing that I need to refer to in [Bugs In Writing](https://www.pearson.com/us/higher-education/program/Dupre-BUGS-in-Writing-Revised-Edition-A-Guide-to-Debugging-Your-Prose-2nd-Edition/PGM246348.html)
 
+---
+
 ## Terms Often Confused
 
 ### Affect versus Effect
@@ -24,6 +26,8 @@ There are four different cases:
 * Max and Lyn thus demonstrated how companions can *affect* each other's moods.
   * Affect is used as a verb to show how Max and Lyn have an influence on each other's moods.
 
+---
+
 ### So, So That, Such That
 *Page 14*
 
@@ -43,6 +47,7 @@ There are four different cases:
 * I love you *such that* I am happy.
   * Means: The way I love you makes me, or allows me to be, happy.
 
+---
 
 ###  Which versus That
 *Page 67*
@@ -70,6 +75,8 @@ There are four different cases:
 * The car, *which* is speeding down the road, is about to crash into a mongoose.
   * We don't know which car is about to crash, and instead have a parenthetical remark.
 
+---
+
 ### Note that versus Notice that
 *Page 457*
 
@@ -83,28 +90,50 @@ There are four different cases:
 * Avoid using: *it is important to note that*
 * It is often to redundant to use these phrases
 
+---
+
 ### Its versus It's
+
+---
 
 ### Fewer versus Less
 
+---
+
 ### Like versus Such as
+
+---
 
 ## Terms to Avoid
 
+---
+
 ### Undefined this
+
+---
 
 ## Terms Tricky to Handle
 
+---
+
 ### Only
+
+---
 
 ## Punctuation Marks
 
+---
+
 ### Commas
+
+---
 
 ### Em Dashes
 
 <!---
 ## Template
+
+---
 
 ### Principle
 *Page Number*
@@ -118,4 +147,6 @@ There are four different cases:
 #### Examples
 * Example usage
   * Explanation
+---
+
 -->
