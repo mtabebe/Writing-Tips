@@ -3,7 +3,7 @@ scriptsDir="scripts"
 
 filterWords=("examples" "rules" "meaning")
 # don't ask about the sed
-$scriptsDir/gh-md-toc $bugsDir/bugs.md | sed "s/^       /  /g" | sed "s/^   //g"> $bugsDir/toc.md
+$scriptsDir/gh-md-toc $bugsDir/bugs.md | sed "s/^       /   /g" | sed "s/^   //g"> $bugsDir/toc.md
 
 
 for filterWord in "${filterWords[@]}"
