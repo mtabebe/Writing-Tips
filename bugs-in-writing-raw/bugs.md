@@ -123,6 +123,24 @@ There are four different cases:
 ---
 
 ### Like versus Such as
+*Page 128*
+
+#### Meaning
+* When you are referring to a set, the members of which have in common a given characteristics, and you wish to given an example that is a member of that set, you should use *such as*
+* When you are referring to a set that does not include your example, but that contains members that resemble your example, you should use  *like*
+* You should use *as* for comparisons of activities
+* You should use *like* for comparisons of objects
+
+#### Examples
+* Mary wanted riches, *such as* a mansion or a yacht
+  * Mary's desired riches include a mansion and a yacht.
+* Doug desires a wife *like* Moise's.
+  * Doug would like to wed a women who resembles Moises's spouse. This sentences does not mean he wants to marry Moise's wife.
+* Lyn's mother is *like* Lyn
+  * Here *like* refers to a noun: Lyn.
+* Tania walks across the room much *as* the most graceful ballerina pirouettes.
+  * Here *as* refers to a noun: walk
+
 ---
 
 # Terms Often Misused
