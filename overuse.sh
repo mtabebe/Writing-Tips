@@ -3,8 +3,8 @@ now=$(date +%b-%d-%H-%M-%S)
 tmp_file=/tmp/$filename-$now
 
 # 0.5% of text
-threshold="${2:-5}"
-mult="${3:-1000}"
+threshold="${2:-1}"
+mult="${3:-100}"
 
 # from https://gist.github.com/deekayen/4148741
 # wget https://gist.github.com/deekayen/4148741; cat 1-1000.txt | head -n 50 | tr '\n' '|'
@@ -31,3 +31,4 @@ do
   fi
 done < $tmp_file
 
+rm $tmp_file
