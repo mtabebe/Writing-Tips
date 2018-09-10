@@ -10,3 +10,6 @@ $path/weasel.sh $filename
 
 echo " --- Passive Voice --- "
 $path/passive.sh $filename
+
+echo " --- Word Overuse --- "
+$path/overuse.sh $filename

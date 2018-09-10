@@ -1,6 +1,6 @@
 Tips on writing from [Bugs In Writing](Bugs-In-Writing.md).
 
-Useful shell scripts from [Matt Might's blog post](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
+Some shell scripts from [Matt Might's blog post](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 
 ---
 Scripts usage
@@ -13,3 +13,9 @@ Passive: finds abuse of passive voice
 
 Weasel: finds weasel, or lazy,  words like *very*.
 ```./weasel.sh input.txt```
+
+Detect word overuse (simply by a frequency analysis, thresholds are tunable)
+```overuse.sh input.txt```
+
+All of the scripts:
+```detectBadWriting.sh input.txt```
