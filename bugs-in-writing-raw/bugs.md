@@ -278,3 +278,12 @@ There are four different cases:
 
 ### Split Infinitives
 *Page 182*
+
+#### Meaning
+* An infinitive is the *to X* form a verb.
+* A split infinitive is one in which text has been inserted between the *to* and the other word.
+
+#### Examples
+* Bad Example: To boldly go where no man has gone before.
+* Good Example: To go boldly where no man has gone before.
+
