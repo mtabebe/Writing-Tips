@@ -20,3 +20,6 @@ Table of Contents
 * [Punctuation Marks](#punctuation-marks)
   * [Commas](#commas)
   * [Em Dashes](#em-dashes)
+* [Parsing, Syntax, and Parts of Speech](#parsing-syntax-and-parts-of-speech)
+  * [Passive or Missing Agents](#passive-or-missing-agents)
+  * [Split Infinitives](#split-infinitives)

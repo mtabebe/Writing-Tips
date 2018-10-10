@@ -23,6 +23,9 @@ Table of Contents
 * [Punctuation Marks](#punctuation-marks)
   * [Commas](#commas)
   * [Em Dashes](#em-dashes)
+* [Parsing, Syntax, and Parts of Speech](#parsing-syntax-and-parts-of-speech)
+  * [Passive or Missing Agents](#passive-or-missing-agents)
+  * [Split Infinitives](#split-infinitives)
 ---
 
 # Terms Often Confused
@@ -172,6 +175,7 @@ There are four different cases:
 ---
 
 ### Two or More
+*Page 19*
 
 ---
 
@@ -244,8 +248,23 @@ There are four different cases:
 ---
 
 ### Commas
+*Page 94*
 
 ---
 
 ### Em Dashes
+*Page 316*
 
+---
+
+# Parsing, Syntax, and Parts of Speech
+
+---
+
+### Passive or Missing Agents
+*Page 1*
+
+---
+
+### Split Infinitives
+*Page 182*
