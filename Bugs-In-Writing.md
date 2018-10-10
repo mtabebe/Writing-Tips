@@ -250,6 +250,24 @@ There are four different cases:
 ### Commas
 *Page 94*
 
+#### Meaning
+* Commas give sentences meaning, and you generally should place them wherever a speaker would pause, or wherever there is a logical shift in your sentence.
+
+#### Rules
+* You should use the series comma, which is the comma before the *and* or the *or* in a list of several items.
+* You should place a comma after an introductory word, phrase of clause.
+* You should use a comma wherever there is a logical pause, or whenever you begin a new thought.
+* You should use a comma around clauses inserted in the middle of a *that* remark.
+* You should *not* use a comma splice, which is a joining of two sentences, that should remain separate, by a comma and an *and*.
+
+#### Examples
+* I don't want any coffee, tea, or milk.
+  * This is the *series comma*
+* In summary, we can block unwelcome transitivity in one of two ways.
+* I want you to know that, whatever happens, I will never let another man put ice on my bruised fingers.
+* Holly wanted to live with goats and rabbits and chickens and ducks and cats, so she moved to Oregon.
+  * This is a logical pause.
+
 ---
 
 ### Em Dashes
@@ -263,6 +281,26 @@ There are four different cases:
 
 ### Passive or Missing Agents
 *Page 1*
+
+#### Meaning
+* Passive voice is the form in which you can say only that an event or action took place in the world, without necessarily admitting what or who the causal agent was.
+
+#### Rules
+* You should avoid passive voice because it fails to inform the reader who or what took action in the world.
+* You should not mix in one sentence parts that contain words ending in *ing* with parts cast in passive voice.
+* You should not mix in one sentence parts that contain the verb form *to X*, called infinitives, and parts in passive voice.
+
+#### Examples
+* Bad Example: The paper was written by Michael.
+* Good Example: Michael wrote the paper.
+  * This example is the classic use of passive voice.
+* Bad Example: By pouring water water on the flame, the fire can be extinguished quickly.
+* Good Example: By pouring water on the flame, you can extinguish the fire quickly.
+  * The bad example mixes *ing*
+* Bad Example: To get advice, an expert must be consulted.
+* Good Example: To get advice, you must consult an expert.
+  * The bad example violates the infinitive rule.
+
 
 ---
 
