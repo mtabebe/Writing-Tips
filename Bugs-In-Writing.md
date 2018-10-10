@@ -23,6 +23,8 @@ Table of Contents
 * [Punctuation Marks](#punctuation-marks)
   * [Commas](#commas)
   * [Em Dashes](#em-dashes)
+  * [Hyphens](#hyphens)
+  * [Semicolon](#semicolon)
 * [Parsing, Syntax, and Parts of Speech](#parsing-syntax-and-parts-of-speech)
   * [Passive or Missing Agents](#passive-or-missing-agents)
   * [Split Infinitives](#split-infinitives)
@@ -272,6 +274,23 @@ There are four different cases:
 
 ### Em Dashes
 *Page 316*
+
+#### Meaning
+* An em dash (---) delineates a thought that is not a critical part of the sentence.
+
+#### Rules
+* You should use two em dashes if you wish to include --- in the middle of a sentence --- a though that is slightly tangential to your subject, but to which you wish to call attention.
+* You should use one em dash if you wish to tack on an extra thought at the end of a sentence.
+
+---
+
+### Hyphens
+*Page 134*
+
+---
+
+### Semicolon
+*Page 374*
 
 ---
 
