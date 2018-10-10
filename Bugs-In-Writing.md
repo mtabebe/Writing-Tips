@@ -179,6 +179,18 @@ There are four different cases:
 ### Two or More
 *Page 19*
 
+#### Rules
+* You should use the right terms when there are two agents or objects involved in a sentence compared to when more than two agents are involved.
+* two agents versus more than two agents
+* *between* versus *among*
+* *each other* versus *one another*
+* *either* versus *any one of*
+  * However, you can simply omit the phrase *any one of* entirely.
+* *a couple* versus *several*
+
+#### Examples
+* The printer is shared between the two systems, but the stapler is shared among the students in the lab.
+
 ---
 
 
